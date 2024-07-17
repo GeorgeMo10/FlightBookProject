@@ -1,0 +1,682 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15869\\source\\repos\\FlightBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\flightbooking.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\flightbooking.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\book-flight\\book-flight.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\flightbooking.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\flightbooking.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\search-flights\\search-flights.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\models\\flightrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\models\\flightrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\api-configuration.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\api-configuration.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\base-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\base-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\request-builder.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\request-builder.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\strict-http-response.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\strict-http-response.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\models\\problem-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\models\\problem-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\api.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\api.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\api\\models\\flight-rm.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\api\\models\\flight-rm.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\about\\about.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\about\\about.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\about\\about.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\about\\about.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\ng-openapi-gen.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\ng-openapi-gen.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\models\\timeplacerm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\models\\timeplacerm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.client\\src\\app\\contact\\contact.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A48569C-162D-4258-9072-0FC542B7C900}|flightbooking.client\\flightbooking.client.esproj|solutionrelative:flightbooking.client\\src\\app\\contact\\contact.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|c:\\users\\15869\\source\\repos\\flightbooking\\flightbooking.server\\flightbooking.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{01D5C26D-3C07-41C8-9D2D-67BC680E45B8}|FlightBooking.Server\\FlightBooking.Server.csproj|solutionrelative:flightbooking.server\\flightbooking.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "time-place-rm.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\models\\time-place-rm.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T00:50:14.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ng-openapi-gen.json",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\ng-openapi-gen.json",
+              "RelativeDocumentMoniker": "flightbooking.client\\ng-openapi-gen.json",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\ng-openapi-gen.json",
+              "RelativeToolTip": "flightbooking.client\\ng-openapi-gen.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T00:50:55.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\angular.json",
+              "RelativeDocumentMoniker": "flightbooking.client\\angular.json",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\angular.json",
+              "RelativeToolTip": "flightbooking.client\\angular.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T03:29:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\.editorconfig",
+              "RelativeDocumentMoniker": "flightbooking.client\\.editorconfig",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\.editorconfig",
+              "RelativeToolTip": "flightbooking.client\\.editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-17T03:29:19.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "flightbooking.client",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\flightbooking.client.esproj",
+              "RelativeDocumentMoniker": "flightbooking.client\\flightbooking.client.esproj",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\flightbooking.client.esproj",
+              "RelativeToolTip": "flightbooking.client\\flightbooking.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-17T03:17:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "FlightBooking.Server\\Controllers\\FlightController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:54:31.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "search-flight-plain.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight-plain.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Program.cs",
+              "RelativeToolTip": "FlightBooking.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:12:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T02:31:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T01:02:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightBooking.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\FlightBooking.Server.csproj",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\FlightBooking.Server.csproj",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\FlightBooking.Server.csproj",
+              "RelativeToolTip": "FlightBooking.Server\\FlightBooking.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T22:53:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "flight-id-get.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightRm.cs",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Models\\FlightRm.cs",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\Models\\FlightRm.cs",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Models\\FlightRm.cs",
+              "RelativeToolTip": "FlightBooking.Server\\Models\\FlightRm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:37:22.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "search-flights.component.html",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.html",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\search-flights\\search-flights.component.html",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.html",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\search-flights\\search-flights.component.html",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAkwGoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-08T22:50:49.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "book-flight.component.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\book-flight\\book-flight.component.ts",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T02:30:21.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "book-flight.component.html",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.html",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\book-flight\\book-flight.component.html",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\book-flight\\book-flight.component.html",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\book-flight\\book-flight.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T02:35:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "search-flights.component.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\search-flights\\search-flights.component.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T22:43:38.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T02:31:39.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "api-configuration.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\api-configuration.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\api-configuration.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\api-configuration.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\api-configuration.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T00:49:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "base-service.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\base-service.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\base-service.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\base-service.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\base-service.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:18:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "models.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\models.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\models.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:18:29.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "request-builder.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\request-builder.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\request-builder.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\request-builder.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\request-builder.ts",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:22:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "services.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\services.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\services.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\services.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\services.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T22:42:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "strict-http-response.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\strict-http-response.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\strict-http-response.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\strict-http-response.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\strict-http-response.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:22:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "flight-id-get-plain.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\fn\\flight\\flight-id-get-plain.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "search-flight.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\fn\\flight\\search-flight.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "problem-details.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\problem-details.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\models\\problem-details.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\problem-details.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\models\\problem-details.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:23.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "api.module.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\api.module.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\api.module.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\api.module.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\api.module.ts",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:18:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "flight-rm.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\flight-rm.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\api\\models\\flight-rm.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\api\\models\\flight-rm.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\api\\models\\flight-rm.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T22:50:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "about.component.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\about\\about.component.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\about\\about.component.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\about\\about.component.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\about\\about.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "about.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\about\\about.component.spec.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\about\\about.component.spec.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\about\\about.component.spec.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\about\\about.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-15T01:17:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlightBooking.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T01:01:09.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\appsettings.Development.json",
+              "RelativeToolTip": "FlightBooking.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T03:11:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TimePlaceRm.cs",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Models\\TimePlaceRm.cs",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\Models\\TimePlaceRm.cs",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\Models\\TimePlaceRm.cs",
+              "RelativeToolTip": "FlightBooking.Server\\Models\\TimePlaceRm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:02:10.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\nuget.config",
+              "RelativeDocumentMoniker": "flightbooking.client\\nuget.config",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\nuget.config",
+              "RelativeToolTip": "flightbooking.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T22:39:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "contact.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\contact\\contact.component.spec.ts",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\contact\\contact.component.spec.ts",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\contact\\contact.component.spec.ts",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\contact\\contact.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T22:50:46.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "contact.component.html",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\contact\\contact.component.html",
+              "RelativeDocumentMoniker": "flightbooking.client\\src\\app\\contact\\contact.component.html",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\flightbooking.client\\src\\app\\contact\\contact.component.html",
+              "RelativeToolTip": "flightbooking.client\\src\\app\\contact\\contact.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-08T22:50:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\appsettings.json",
+              "RelativeToolTip": "FlightBooking.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T03:11:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FlightBooking.Server.http",
+              "DocumentMoniker": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\FlightBooking.Server.http",
+              "RelativeDocumentMoniker": "FlightBooking.Server\\FlightBooking.Server.http",
+              "ToolTip": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\FlightBooking.Server.http",
+              "RelativeToolTip": "FlightBooking.Server\\FlightBooking.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-03T01:12:32.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

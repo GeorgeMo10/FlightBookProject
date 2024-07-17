@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\15869\\source\\repos\\FlightBooking\\FlightBooking.Server\\..\\flightbooking.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
